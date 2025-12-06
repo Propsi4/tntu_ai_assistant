@@ -102,9 +102,26 @@ This will start:
 Access the Chat UI at:
 [http://localhost:8500/](http://localhost:8500/)
 
+#### Screenshots
+
+<p align="center">
+  <img src="examples/home.png" alt="Home Page" width="45%" />
+  <img src="examples/chat.png" alt="Chat Interface" width="45%" />
+</p>
+<p align="center">
+  <img src="examples/knowledge_base.png" alt="Knowledge Base" width="45%" />
+  <img src="examples/history.png" alt="Chat History" width="45%" />
+</p>
+
 ### API Documentation
 Explore the backend API via Swagger UI:
 [http://localhost:8000/docs](http://localhost:8000/docs)
+
+#### Screenshots
+
+<p align="center">
+  <img src="examples/api_docs.png" alt="API Documentation" width="45%" />
+</p>
 
 ### API Endpoints
 
